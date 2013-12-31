@@ -5,15 +5,15 @@ get CREATE TABLE ... sql from core data .xcdatamodeld or .xcdatamodel file<br><b
 <img src="https://github.com/erkekin/getSQLFromCoreData/blob/master/coredatashot.png?raw=true"><br> to
 <img src="https://github.com/erkekin/getSQLFromCoreData/blob/master/mysqlshot.png?raw=true"><br>
 ##Usage
-$ python getSQLFromCoreData.py Model.xcdatamodeld <br>
+`$ python getSQLFromCoreData.py Model.xcdatamodeld` <br>
 or <br>
-$ python getSQLFromCoreData.py Model.xcdatamodel <br>
+`$ python getSQLFromCoreData.py Model.xcdatamodel` <br>
 
 ##Dev
-@erkekin
 
-##License
- Copyright (c) 2013 erkekin <erkekin@gmail.com> www.erkekin.com
+[@erkekin](http://www.twitter.com/erkekin)
+##Licese
+ Copyright (c) 2013 erkekin <erkekin at gmail.com> [erkekin.com](http://www.erkekin.com)
 
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
@@ -32,3 +32,4 @@ $ python getSQLFromCoreData.py Model.xcdatamodel <br>
  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  THE SOFTWARE.
+
