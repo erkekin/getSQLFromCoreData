@@ -10,9 +10,9 @@ or <br>
 $ python getSQLFromCoreData.py Model.xcdatamodel <br>
 
 ##Dev
-@erkekin, www.erkekin.com
+@erkekin
 
-##Licese
+##License
  Copyright (c) 2013 erkekin <erkekin@gmail.com> www.erkekin.com
 
  Permission is hereby granted, free of charge, to any person obtaining a copy
